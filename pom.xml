@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>chroma.js</artifactId>
-    <version>0.6.1-SNAPSHOT</version>
+    <version>0.6.1</version>
     <name>Chroma.js</name>
     <description>WebJar for Chroma.js</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/chroma.js</url>
         <connection>scm:git:https://github.com/webjars/chroma.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/chroma.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>chroma.js-0.6.1</tag>
     </scm>
     
     <build>
